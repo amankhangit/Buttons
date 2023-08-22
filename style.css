@@ -1,9 +1,11 @@
 .subscribe-button {
-    background-color: rgb(200, 0, 0);
+    background-color: rgb(204, 0, 0);
     color: white;
     border: none;
-    height: 36px;
-    width: 105px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 16px;
+    padding-right: 16px;
     border-radius: 2px;
     cursor: pointer;
     margin-right: 8px;
@@ -20,12 +22,14 @@
 
 .join-button{
     background-color: white;
-    color: rgb(0, 86, 207);
+    color: rgb(6, 95, 212);
     border-style: solid;
-    border-color: rgb(0, 86, 207);
+    border-color: rgb(6, 95, 212);
     border-width: 1px;
-    height: 36px;
-    width: 62px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    padding-left: 15px;
+    padding-right: 15px;
     border-radius: 2px;
     cursor: pointer;
     margin-right: 8px;
@@ -33,7 +37,7 @@
 }
 
 .join-button:hover{
-    background-color: rgb(0, 86, 207);
+    background-color: rgb(6, 95, 212);
     color: white;
 }
 
@@ -42,11 +46,13 @@
 }
 
 .tweet-button{
-    background-color: rgb(29, 161, 242);
+    background-color: rgb(29, 155, 240);
     color: white;
     border: none;
-    height: 36px;
-    width: 74px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 16px;
+    padding-right: 16px;
     border-radius: 18px;
     font-weight: bold;
     font-size: 15px;
@@ -65,8 +71,10 @@
 .uber{
     background-color: black;
     color: white;
-    height: 36px;
-    width: 112px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 16px;
+    padding-right: 16px;
     border: none;
     cursor: pointer;
     transition: opacity 0.15s;
@@ -82,8 +90,10 @@
 
 .amazon{
     background-color: rgb(255,216,20);
-    height: 36px;
-    width: 170px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 52px;
+    padding-right: 52px;
     border: none;
     border-radius: 18px;
     cursor: pointer;
@@ -102,8 +112,10 @@
     background-color: rgb(46, 164, 79);
     color: white;
     border: none;
-    height: 36px;
-    width: 90px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
     border-radius: 5px;
     font-weight: 600;
     cursor: pointer;
@@ -121,8 +133,10 @@
 .bootstrap1{
     background-color: rgb(121, 82, 179);
     color: white;
-    height: 36px;
-    width: 105px;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    padding-left: 20px;
+    padding-right: 20px;
     border: none;
     border-radius: 4px;
     font-weight: 600;
@@ -145,8 +159,10 @@
     border-style: solid;
     border-width: 1px;
     border-color: rgb(108, 117, 125);
-    height: 36px;
-    width: 105px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
     border-radius: 4px;
     font-weight: bold;
     cursor: pointer;
@@ -165,8 +181,10 @@
 .linkedin1{
     background-color: rgb(10, 102, 194);
     color: white;
-    height: 36px;
-    width: 210px;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    padding-left: 20px;
+    padding-right: 20px;
     border: none;
     border-radius: 18px;
     font-weight: 600;
@@ -186,8 +204,10 @@
 .linkedin2{
     background-color: white;
     color: rgb(10, 102, 194);
-    height: 36px;
-    width: 70px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
     border-style: solid;
     border-width: 1px;
     border-color: rgb(10, 102, 194);
